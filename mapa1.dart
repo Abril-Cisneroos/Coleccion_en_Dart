@@ -15,7 +15,7 @@ void maind(){
       });
 
       print("iterar un map con for in");
-      for (var key in alumnos.keys) {
-        print("$key, ${alumnos[key]}");
+      for (var value in alumnos.values) {
+        print("$value");
       }
 }
