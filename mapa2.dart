@@ -5,11 +5,12 @@ void main() {
  
   Map<String, dynamic> sucursal = {
     "Id": "110201",
-    "Nombre": "Sucursal 1",
     "Direccion": "Calle 1, Colonia 1, Ciudad 1",
     "Telefono": "1234567890",
+    "correo": "correo",
+    "numero_empleados": "10",
     "horarios": "Lunes a Viernes de 9:00 a 18:00",
-    "correo": "correo"
+    "Nombre": "Sucursal 1",
   };
 
   
@@ -30,13 +31,13 @@ void main() {
 
 
   Map<String, dynamic> cliente = {
-    "Id": "1",
-    "Nombre completo": "Juan",
+    "Id": "123456",
+    "Nombre": "Ricardo",
+    "Direccion": "Calle 2, Colonia 2, Ciudad 2",
     "Telefono": "0987654321",
     "correo": "correo",
-    "id_mascota": "1",
-    "historial": "historial",
-    "visitas": "visitas"
+    "id_mascota": "654321",
+    "sexo": "Masculino",
   };
 
   
