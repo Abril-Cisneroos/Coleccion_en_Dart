@@ -5,7 +5,7 @@ void main() {
  
   Map<String, dynamic> sucursal = {
     "Id": "110201",
-    "Direccion": "Calle 1, Colonia 1, Ciudad 1",
+    "Direccion": "Calle 1, Colonia 1, Ciudad 2",
     "Telefono": "1234567890",
     "correo": "correo",
     "numero_empleados": "10",
