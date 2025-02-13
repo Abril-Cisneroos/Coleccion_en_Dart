@@ -2,7 +2,7 @@ void main() {
   print("Frida Abril Cisneros Hernandez 22308051281162 gpo 6 j");
 
   // Definir un mapa de alumnos
-  Map<int, String> alumnos = {1: "Frida", 2: "Abril", 3: "Juan", 4: "Luis"};
+  Map<int, String> alumnos = {1: "Frida", 2: "abril", 3: "Juan", 4: "Luis"};
   
   // Imprimir el mapa de alumnos
   print("Mapa de alumnos:");
